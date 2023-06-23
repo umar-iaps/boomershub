@@ -6,6 +6,8 @@
 - Property Details can be shown by clicking on the respective Property
 - Filters Working
 - Data is persistent
+- Property Images served from AWS S3
+- React App Hosted on Amplify
 ## Missing Features
 - Dashboard not properly implemented
 - An issue with RDS on AWS EC2 instance due to which data being not scrapped but the Node Server is being hosted on AWS EC2
