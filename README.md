@@ -11,8 +11,8 @@
 - An issue with RDS on AWS EC2 instance due to which data being not scrapped but the Node Server is being hosted on AWS EC2
 - Data served statically
 ## Technologies Used
-- Express.ts
-- React.ts
+- Express.TS
+- React.TS
 - AWS S3 and AWS EC2 container
 - TypeScript
 
